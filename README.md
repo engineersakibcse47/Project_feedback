@@ -22,3 +22,12 @@ After completing and restarting the computer, I head on to Pycharm project. Here
 - Build the project pyb publish
 
 [Here](https://github.com/engineersakibcse47/Project_feedback/blob/main/requirement.txt) is my requirement file.
+
+
+### Build Management
+
+For build management I had used pybuilder, which is a powerful tool when using python. It is the first time that I configured a build management tool myself. You can find 3 files created for this purpose:
+
+- Build file [build.py](https://github.com/engineersakibcse47/Project_feedback/blob/main/build.py) 
+- Setup file [setup.py](https://github.com/engineersakibcse47/Project_feedback/blob/main/setup.py) 
+- toml file [pyproject.tolm](https://github.com/engineersakibcse47/Project_feedback/blob/main/pyproject.tolm) 
