@@ -30,4 +30,4 @@ For build management I had used pybuilder, which is a powerful tool when using p
 
 - Build file [build.py](https://github.com/engineersakibcse47/Project_feedback/blob/main/build.py) 
 - Setup file [setup.py](https://github.com/engineersakibcse47/Project_feedback/blob/main/setup.py) 
-- toml file [pyproject.tolm](https://github.com/engineersakibcse47/Project_feedback/blob/main/pyproject.tolm) 
+- toml file [pyproject.tolm](https://github.com/engineersakibcse47/Project_feedback/blob/main/pyproject.toml) 
