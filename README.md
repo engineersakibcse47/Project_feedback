@@ -32,7 +32,7 @@ I used Git to frequently commit and push my code to GitHub. I also used GitHub a
 
 For the UML diagrams I chose to present the following:
 
-- [Use case diagram](https://github.com/engineersakibcse47/Project_feedback/blob/main/) displays the different real world problems the software should fulfill next
+- [Use case diagram](https://github.com/engineersakibcse47/Project_feedback/blob/main//tasks/Use Case Diagram(3).jpg) displays the different real world problems the software should fulfill next
 to the different users of this software.
 - [Sequence diagram](https://github.com/engineersakibcse47/Project_feedback/blob/main/) displays the different real world problems the software should fulfill next to the different users of this software.
 
