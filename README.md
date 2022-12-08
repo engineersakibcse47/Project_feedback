@@ -30,7 +30,7 @@ I used Git to frequently commit and push my code to GitHub. I also used GitHub a
 
 ###  Unified Model Language (Still Working On it)
 
-For the UML diagrams I chose to present the following:
+For the UML diagrams I decided to show 4 different diagram but for now, I chose to present the following two:
 
 - [Use case diagram](https://github.com/engineersakibcse47/Project_feedback/blob/main/tasks) displays the different real world problems the software should fulfill next
 to the different users of this software.
