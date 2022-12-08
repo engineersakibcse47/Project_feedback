@@ -43,3 +43,15 @@ For build management I had used pybuilder, which is a powerful tool when using p
 - Build file [build.py](https://github.com/engineersakibcse47/Project_feedback/blob/main/build.py) 
 - Setup file [setup.py](https://github.com/engineersakibcse47/Project_feedback/blob/main/setup.py) 
 - toml file [pyproject.tolm](https://github.com/engineersakibcse47/Project_feedback/blob/main/pyproject.toml) 
+
+### IDE
+
+I had used PyCharm 2022.2.4 (Community Edition) using Anaconda Python 3.8 as interpreter. I find very useful to use it this way for an easier environment and package management even if I deside to use other tools like Jupyter Notebook or Google collab, Anaconda as interpreter will save time not having to install save packages everywhere. The integration with Git using this IDE was straight forward and I was able to commit, pull and push updates without facing an issue, would be interesting to start trying it with multiple branches for more complex project.
+Another feature I like very much about this IDE, is the new package manager for PyCharm that allows you to install and update packages within few click, no pip is needed. My most used shortcuts are:
+
+- Ctrl + K to show commit window
+- Ctrl + Shift + C to cpy document path
+- Alt + Shift + F9 to run selected
+
+Full short-cut list could be found [Here](https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard.pdf)
+
